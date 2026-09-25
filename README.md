@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:6DD5FA&height=220&section=header&text=Santhosh%20Kumar%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20Web%20Developer%20%7C%20MERN%20Stack%20%26%20Three.js&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:6DD5FA&height=220&section=header&text=Santhosh%20Kumar%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20Web%20Developer%20%7C%20MERN%20Stack%20%2B%20Three.js&descAlignY=58&descSize=18"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+immersive+3D+web+experiences;MERN+Stack+%7C+Three.js+%7C+WebGL;15%2B+client+projects+delivered;Always+learning%2C+always+shipping" alt="Typing SVG" />
