@@ -1,108 +1,115 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:6DD5FA&height=220&section=header&text=Santhosh%20Kumar%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20Web%20Developer%20%7C%20MERN%20Stack%20%2B%20Three.js&descAlignY=58&descSize=18"/>
+# Hi, I'm Santhosh Kumar G 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+immersive+3D+web+experiences;MERN+Stack+%7C+Three.js+%7C+WebGL;15%2B+client+projects+delivered;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
+### MERN Stack & Three.js Developer · Coimbatore, India
 
-<p align="center">
-  <a href="mailto:santhoshkumargmss1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Coimbatore,%20India-2F80ED?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=santhosh-2426&style=for-the-badge&color=6DD5FA&label=PROFILE+VIEWS"/>
-</p>
+I build full-stack web applications and interactive 3D web experiences. I'm currently a **MERN Stack & Three.js Developer at V Connect Media**, where I've delivered **45+ production projects**, including 3D configurators, 360° virtual tours, virtual expos, AR experiences, and business web apps.
 
-<br/>
+📫 **Email:** santhoshkumargmss1@gmail.com
 
-## 🚀 About Me
-
-I'm an Interactive Web Developer with hands-on experience building full-stack web applications, interactive websites, and 3D web experiences. From ERP systems and finance dashboards to virtual tours, product configurators, and Three.js applications — I love building things people actually use.
-
-- 🔭 Currently working as a **MERN Stack & Three.js Developer** at **V Connect Media**
-- 🎯 Delivered **15+ client projects** — interactive websites, virtual tours, configurators, and business web apps
-- 🕹️ Built immersive **3D web experiences** with Three.js & WebGL
-- 🎮 Developed a multiplayer game in **Roblox Studio (Lua)** with combat & animation systems
-- 🌱 Always learning new technologies to level up
-- 📫 Reach me at **santhoshkumargmss1@gmail.com**
-
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,nodejs,express,mongodb,mysql,git,github,figma&theme=dark" />
-</p>
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase |
+| **3D, AR & Animation** | Three.js, WebGL, WebXR, GSAP, Model Viewer |
+| **Tools & Deployment** | Git, GitHub, Vite, Hostinger, Render, Netlify |
+| **Game Development** | Roblox Studio, Lua |
 
-<div align="center">
+---
 
-| Frontend | Backend & DB | Game / 3D | Deploy |
-|:---:|:---:|:---:|:---:|
-| HTML5, CSS3, JavaScript | Node.js, Express.js | Three.js, WebGL | Netlify |
-| Responsive UI | MongoDB, MySQL | Roblox Studio, Lua | Render |
-| | | | Hostinger |
+## 🏆 Highlights
 
-</div>
+- Delivered **45+ production projects** for clients in real estate, retail, manufacturing, education, and events
+- Built **8+ 3D configurators** for automotive, furniture, and industrial equipment
+- Launched **12+ virtual tours and virtual expos**
+- Developed a **Smart Office ERP** from scratch
+- Built **12+ course websites** for Alpha6
 
-<br/>
+---
 
-## 💼 Featured Work
+## ⭐ Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+| Project | Tech | Live |
+|---|---|---|
+| **Car Configurator**: real-time 3D car customization | Three.js, WebGL, GSAP | [View](https://vconnectmedia.com/car) |
+| **Warehouse Configurator**: interactive 3D warehouse layout | Three.js, WebGL | [View](https://sarvatraders.in/warehouse/) |
+| **Indoor Navigation System**: guides visitors to locations inside a building | JavaScript | [View](https://sarvatraders.in/indoor/) |
+| **3D Apartment with AR**: apartment explorer with a mobile AR view | Three.js, Model Viewer | [View](https://vconnectmedia.com/floors/) |
+| **Museum Virtual Tour**: immersive 360° walkthrough | Three.js, WebXR | [View](https://alpha6.in/museum/) |
+| **Alpha6 Website**: main site plus 12 course pages | HTML, CSS, JavaScript | [View](https://alpha6.in/) |
+| **Smart Office ERP**: leave, attendance, project, and finance modules with dashboards | Node.js, MySQL, HTML, CSS, JavaScript | Private |
+| **Institute Management Portal**: student management with PDF and Excel reports | React, TypeScript, Express.js, PostgreSQL, Firebase | Private |
+| **Roblox Multiplayer Game**: combat and animation systems | Roblox Studio, Lua | Private |
 
-### 🕶️ AR Web Project
-Interactive AR/3D web experience built with a live 3D model, deployed on GitHub Pages.
+---
 
-**Stack:** HTML, Three.js, WebGL, GLB/GLTF
+## 🚗 3D Configurators
 
-🔗 [View Repo](https://github.com/santhosh-2426/ar-project) · [Live Demo](https://santhosh-2426.github.io/ar-project/)
+- [Car Configurator](https://vconnectmedia.com/car)
+- [Product Configurator](https://vconnectmedia.com/configforge/)
+- [Product Configurator V2](https://vconnectmedia.com/productconfig/)
+- [Warehouse Configurator](https://sarvatraders.in/warehouse/)
+- [Recliner 3D Configurator](https://sarvatraders.in/recliner/)
+- [Scaffolding 3D Configurator](https://vconnectmedia.com/scaffolding/)
+- [Industrial Robot Configurator](https://vconnectmedia.com/robot/)
+- [Forklift 3D Configurator](https://vconnectmedia.com/forklift/)
 
-</td>
-<td width="50%">
+## 🌐 360° Virtual Tours
 
-### 🏢 Smart Office ERP
-Leave, attendance, project & finance/expense modules with dashboard analytics.
+- [Mall Virtual Experience](https://sarvatraders.in/mall/)
+- [Museum Virtual Tour](https://alpha6.in/museum/)
+- [Jewellery Showroom Virtual Tour](https://vconnectmedia.com/jewelshowroom/)
+- [Virtual Tour Experience](https://vconnectmedia.com/virtual/)
+- [Industrial 360° Virtual Tour](https://vconnectmedia.com/360-vr/)
+- [Amenities Virtual Tour](https://vconnectmedia.com/amenities/)
+- [Sample Flat Virtual Tour](https://vconnectmedia.com/sample/)
 
-**Stack:** HTML, CSS, JS, Node.js, MySQL
+## 🏛️ Virtual Expos & Exhibitions
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+- [BNI Virtual Expo](https://vconnectmedia.com/bni-expo/)
+- [BNI Jaguar Mall](https://vconnectmedia.com/bni-jaguar/)
+- [Virtual Jewellery Expo Showcase](https://vconnectmedia.com/expo/)
+- [Virtual Expo 2 Showcase](https://vconnectmedia.com/expo2/)
+- [Honey Exhibition](https://vconnectmedia.com/honey/)
 
-### 🚗 Product & Car Configurators
-Real-time customization with interactive controls and hotspot navigation.
+## 🏢 3D Real Estate & Architecture
 
-**Stack:** Three.js, WebGL, JavaScript
+- [3D Apartment with AR](https://vconnectmedia.com/floors/)
+- [Interior Apartment Visualization](https://sarvatraders.in/flat/)
+- [360° Building / Real Estate 3D Apartment](https://vconnectmedia.com/3dapartment/)
+- [Lift 3D Visualization](https://vconnectmedia.com/lift/)
+- [Hospital Model](https://vconnectmedia.com/hospital/)
+- [Jubilant Project](https://sarvatraders.in/jubliant/)
+- [Indoor Navigation System](https://sarvatraders.in/indoor/)
+- [3D EMI Calculator](https://vishnuvishta.com/emi/)
 
-</td>
-<td width="50%">
+## 💻 Websites
 
-### 🎮 Multiplayer Game
-Combat & animation systems built in Roblox Studio.
+- [Alpha6](https://alpha6.in/)
+- [Alpha6 Course Website (Car)](https://vconnectmedia.com/car2/)
+- [Vishnu Vishta](https://vishnuvishta.com/)
+- [Spice Website](https://vconnectmedia.com/spice/)
+- [Company Profile](https://vconnectmedia.com/profile/)
 
-**Stack:** Roblox Studio, Lua
+## 🎓 Alpha6 Course Pages
 
-</td>
-</tr>
-</table>
+[AI Creative](https://alpha6.in/ai_creative_course/) ·
+[Animations](https://alpha6.in/animations_course/) ·
+[AR/VR](https://alpha6.in/ar_vr_course/) ·
+[Cinematography](https://alpha6.in/cinematography_course/) ·
+[Filmmaking](https://alpha6.in/filmmaking_course/) ·
+[Game Development](https://alpha6.in/game_development_course/) ·
+[Graphic Design](https://alpha6.in/graphic_design_course/) ·
+[Photography](https://alpha6.in/photography_course/) ·
+[VFX](https://alpha6.in/vfx_course/) ·
+[Video Editing](https://alpha6.in/video_editing_course/) ·
+[VJ](https://alpha6.in/vj_course/) ·
+[YouTube Content Creation](https://alpha6.in/youtube_content_creation_course/)
 
-<br/>
+---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-2426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="Santhosh's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-2426&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-2426&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santhosh-2426&theme=onedark&no-frame=true&row=1&column=6" alt="trophy"/>
-</p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2F80ED&height=120&section=footer"/>
+💡 *Always learning and building. Feel free to reach out about collaborations or opportunities!*
